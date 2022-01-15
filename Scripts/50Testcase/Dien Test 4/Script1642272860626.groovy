@@ -29,6 +29,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Element/input_User
 
 WebUI.click(findTestObject('Object Repository/Page_Element/input_Forgot password_mx_Login_submit (2)'))
 
+CustomKeywords.'custompack.wait.DelayTime'(15000)
+
 WebUI.click(findTestObject('Object Repository/Page_Element/div_Verify with another device (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Element/div_Verify other device_mx_AccessibleButton_7edffc (1)'))
