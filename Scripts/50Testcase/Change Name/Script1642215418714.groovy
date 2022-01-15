@@ -36,6 +36,8 @@ CustomKeywords.'custompack.wait.DelayTime'(15000)
 
 WebUI.click(findTestObject('Object Repository/Page_Element/div_Verify with another device'))
 
+CustomKeywords.'custompack.wait.DelayTime'(10000)
+
 WebUI.click(findTestObject('Object Repository/Page_Element 1/div_Verify other device_mx_AccessibleButton_7edffc'))
 
 WebUI.click(findTestObject('Object Repository/Page_Element 1/img_Enable_mx_BaseAvatar_image'))
