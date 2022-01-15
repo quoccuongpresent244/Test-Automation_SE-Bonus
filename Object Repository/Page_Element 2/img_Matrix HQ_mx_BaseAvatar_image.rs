@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Matrix HQ_mx_BaseAvatar_image</name>
+   <tag></tag>
+   <elementGuidId>050f6d66-a3bb-49d8-bb6d-cb8d3935503d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='matrixchat']/div/div[2]/div/div/div/aside/div[3]/div/div/div[4]/div[2]/div/div[3]/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx_DecoratedRoomAvatar.mx_DecoratedRoomAvatar_cutout > span.mx_BaseAvatar > img.mx_BaseAvatar_image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx_BaseAvatar_image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAF5JREFUWEft0rENwCAQBEG+KZp0f27HFLEJsoZ8JTR/s5/3Wxe/8cF4HYIRcBEkWAVqb4MEq0DtbZBgFai9DRKsArW3QYJVoPY2SLAK1N4GCVaB2tsgwSpQexv8veABxu5nmbAR/pMAAAAASUVORK5CYII=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;matrixchat&quot;)/div[@class=&quot;mx_MatrixChat_wrapper&quot;]/div[@class=&quot;mx_MatrixChat&quot;]/div[@class=&quot;mx_LeftPanel_wrapper&quot;]/div[@class=&quot;mx_LeftPanel_wrapper--user&quot;]/div[@class=&quot;mx_LeftPanel&quot;]/aside[@class=&quot;mx_LeftPanel_roomListContainer&quot;]/div[@class=&quot;mx_LeftPanel_roomListWrapper mx_LeftPanel_roomListWrapper_stickyTop&quot;]/div[@class=&quot;mx_LeftPanel_actualRoomListContainer mx_AutoHideScrollbar&quot;]/div[@class=&quot;mx_RoomList&quot;]/div[@class=&quot;mx_RoomSublist&quot;]/div[@class=&quot;mx_RoomSublist_resizeBox&quot;]/div[@class=&quot;mx_RoomSublist_tiles&quot;]/div[@class=&quot;mx_AccessibleButton mx_RoomTile&quot;]/div[@class=&quot;mx_DecoratedRoomAvatar mx_DecoratedRoomAvatar_cutout&quot;]/span[@class=&quot;mx_BaseAvatar&quot;]/img[@class=&quot;mx_BaseAvatar_image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='matrixchat']/div/div[2]/div/div/div/aside/div[3]/div/div/div[4]/div[2]/div/div[3]/div/span/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAF5JREFUWEft0rENwCAQBEG+KZp0f27HFLEJsoZ8JTR/s5/3Wxe/8cF4HYIRcBEkWAVqb4MEq0DtbZBgFai9DRKsArW3QYJVoPY2SLAK1N4GCVaB2tsgwSpQexv8veABxu5nmbAR/pMAAAAASUVORK5CYII=')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span/img</value>
+   </webElementXpaths>
+</WebElementEntity>
