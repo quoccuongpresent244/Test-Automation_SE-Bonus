@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "FEBC456D505FA066337E1544722AE419",
+  "keywordClasses": [
+    {
+      "name": "custompack.wait",
+      "keywordMethods": [
+        {
+          "name": "DelayTime",
+          "parameters": [
+            {
+              "name": "milliseconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
