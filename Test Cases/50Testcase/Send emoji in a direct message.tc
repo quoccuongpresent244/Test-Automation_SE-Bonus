@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send emoji in a direct message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba6860eb-43e4-4fb8-bf5d-e916440bacff</testCaseGuid>
+</TestCaseEntity>

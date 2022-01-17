@@ -6,12 +6,12 @@
    <elementGuidId>8d258c65-30d0-4514-af34-0b9a324f87f2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='Sign in']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.mx_Login_submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign in']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

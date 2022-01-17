@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "8F9D5A6CE90FEB66F9537B81326D9DD8",
+  "keywordClasses": [
+    {
+      "name": "waittime.waitime",
+      "keywordMethods": [
+        {
+          "name": "DelayTime",
+          "parameters": [
+            {
+              "name": "milliseconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

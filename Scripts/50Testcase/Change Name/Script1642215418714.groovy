@@ -32,7 +32,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Element/input_Emai
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Element/input_Email_password'), Keys.chord(Keys.ENTER))
 
-CustomKeywords.'custompack.wait.DelayTime'(15000)
+CustomKeywords.'quocpackage.wait.DelayTime'(15000)
 
 WebUI.click(findTestObject('Object Repository/Page_Element/div_Verify with another device'))
 

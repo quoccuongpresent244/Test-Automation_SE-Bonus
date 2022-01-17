@@ -6,12 +6,12 @@
    <elementGuidId>accd0b6f-f51e-49f9-956b-bfb6211a6f56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='mx_Field_3']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mx_Field_3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='mx_Field_3']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Q</value>
+      <value>_qB6!mSgAEz_UtE</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

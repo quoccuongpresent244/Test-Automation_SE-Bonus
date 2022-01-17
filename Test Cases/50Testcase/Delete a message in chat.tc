@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete a message in chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e08204a4-c7e6-47e2-85a2-922387fe2452</testCaseGuid>
+</TestCaseEntity>
