@@ -191,4 +191,64 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/50Testcase/DienTest/TestDien10</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>07195151-dbc7-4aef-8a73-d182f9182de5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/DienTest/TestDien11</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b832c535-0eec-45dc-9fd1-88aca9d314dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/DienTest/TestDien12</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>803dcd25-d03f-44b4-9ef8-c2d90cb3256f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Add private to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ce1928bf-51b6-41b4-a607-9f9f0deaef9d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Remove private from favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>008debf3-2282-42e1-8129-49eadcb58131</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Add public to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c6ae530c-aa4e-452e-9164-cca76485f018</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Remove public to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a9db702-7a09-4b27-acc3-315073cfe6bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Low Priority private</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b5519ef0-7d1e-44c3-9990-726e0b5c7fea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/unLow Priority private</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ed81488-88f2-4b48-9de5-b88e70b4f921</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Low Priority public</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>710611e3-197d-40d0-8d21-70d46746944e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/unLow Priority public</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
