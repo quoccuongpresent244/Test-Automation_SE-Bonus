@@ -251,4 +251,34 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/50Testcase/Chan/unLow Priority public</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6964b007-5774-4012-9685-3b2e201e99d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Show room with unread message first</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>828d5562-3827-4da6-a454-6a0dd7bf9306</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Sort by activity</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b3680135-a1e1-491f-b043-57791dd3b350</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Turn on preview message</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9bf76677-c620-41a3-b990-05bd5fe81b3c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Create public room</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>379abdd4-c78f-4458-9c2c-5e9392542ab4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Join and Chat</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
