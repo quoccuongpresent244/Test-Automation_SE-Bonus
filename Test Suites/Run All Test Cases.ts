@@ -251,4 +251,64 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/50Testcase/Chan/unLow Priority public</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>2ef04c00-8d43-4d6c-a529-24a71095dd7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Join and Chat</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5bfcc1ff-0efe-4235-9861-371614a8635a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Create public room</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>985b9e63-d02f-4242-9a1e-a53f78e5efa1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Add private to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e501010c-a4a8-49d4-8ca3-1cad58f4def9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Add public to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9d47d558-f90e-458f-ab53-8fbcf93a2abd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Low Priority private</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ed21a715-c7dc-44a5-9fb9-c0b9ae98b621</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Low Priority public</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c89e64d6-626b-4859-9d9a-dec962865140</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Remove private from favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ce1e7a7-a57d-4bfd-bd68-ad6f636450a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Remove public to favourite</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9cea70b0-36e2-4632-93e0-16bb747bf441</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Show room with unread message first</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4fdcd3ad-eee4-4801-9cea-ba8e17c977f5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50Testcase/Chan/Sort by activity</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

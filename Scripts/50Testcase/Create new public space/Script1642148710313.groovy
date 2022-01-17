@@ -60,7 +60,7 @@ CustomKeywords.'quocpackage.wait.DelayTime'(1000)
 
 WebUI.click(findTestObject('Object Repository/Page_Element/h3_Public'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Element/input_Upload_spaceName'), 'public-space-for-testing-1022')
+WebUI.setText(findTestObject('Object Repository/Page_Element/input_Upload_spaceName'), 'public-space-for-testing-69')
 
 CustomKeywords.'quocpackage.wait.DelayTime'(500)
 
